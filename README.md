@@ -1,2 +1,2 @@
-# among-us-the-spam
+# Among Us The Spam By Fruity
 Go to realeses
